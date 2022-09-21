@@ -12,7 +12,7 @@ ________________$$$$$\n ______________$$____$$\n ______________$$____$$\n ______
 """
 
 print(noob)
-😁😁😁😁😁😁😁This tool creat By Mohammad Humayun 😁😁😁😁😁😁
+
 
 
 number=str(input(" Enter target phone number : "))
